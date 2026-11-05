@@ -4,6 +4,10 @@ Free scenario practice for the CISM, CISSP, CISA, AAISM and AAIA exams, inside H
 
 [CertArc](https://certarc.com) is independent exam practice built around scenario questions and explanations for every option.
 
+![A CISM question answered on certarc.com, with CertArc's review](assets/practice-review.png)
+
+*The free CISM set on certarc.com. Hermes uses the same 10 questions, as text in your chat.*
+
 ## Install
 
 ```bash
@@ -17,6 +21,13 @@ hermes plugins enable certarc
 - "Test me on CISSP."
 - "What does the AAISM exam cover?"
 - "Find a CertArc guide on CISM incident response."
+
+## How a session goes
+
+1. Ask for a question, and name your exam.
+2. Hermes shows the scenario and its options. You choose one and say how sure you are: confident, unsure or guess.
+3. Hermes tells you whether you were right and explains each option. If you were confident in a wrong answer, it calls that out as a blind spot.
+4. After the 10 questions, or sooner if you want more, Hermes offers the link to CertArc's free assessment.
 
 ## What it does
 
