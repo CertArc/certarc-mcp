@@ -52,7 +52,7 @@ Ask the learner for an option and how sure they are (Confident, Unsure or Guess)
 
 The learner signs in to CertArc in their browser, with Google or a one-time code sent by email. The assistant never sees or enters the code. Assistants never create accounts.
 
-Account sign-in currently works from ChatGPT and Claude. In other MCP clients only the free tools are available.
+Account sign-in currently works from ChatGPT, Claude and Grok. In Grok, add `https://certarc.com/mcp/grok/account` as a custom connector. In other MCP clients only the free tools are available.
 
 ## Questions and data
 
