@@ -1,0 +1,13 @@
+{
+  "name": "certarc",
+  "version": "1.0.0",
+  "description": "Free CertArc scenario practice for the CISM, CISSP, CISA, AAISM and AAIA exams, with exam outlines, study guides and a link to CertArc's free assessment.",
+  "author": {
+    "name": "CertArc",
+    "url": "https://certarc.com"
+  },
+  "homepage": "https://certarc.com/integrations",
+  "repository": "https://github.com/CertArc/certarc-mcp",
+  "license": "MIT",
+  "keywords": ["certarc", "cism", "cissp", "cisa", "aaism", "aaia", "exam-prep", "certification", "mcp"]
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "certarc": {
+      "type": "http",
+      "transport": "streamable-http",
+      "url": "https://certarc.com/mcp/grok"
+    }
+  }
+}

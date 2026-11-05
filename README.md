@@ -16,6 +16,7 @@ This repository holds no server code. It documents the hosted server and its MCP
 | ChatGPT | Add CertArc from its [ChatGPT listing](https://chatgpt.com/plugins/plugin_asdk_app_6ac10753370881918540799af4b9e5d7) |
 | Claude | Add a custom connector with the URL `https://certarc.com/mcp/claude` |
 | Hermes | Plugin package in [`hermes/`](hermes/): free practice, no account needed |
+| OpenClaw | Plugin package in [`openclaw/`](openclaw/): free practice, no account needed |
 | Other MCP clients | Add `https://certarc.com/mcp/claude` as a remote server. The free tools work without an account; see [Sign-in](#sign-in) |
 
 Setup steps for each assistant are on [certarc.com/integrations](https://certarc.com/integrations).

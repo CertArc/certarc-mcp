@@ -1,0 +1,12 @@
+{
+  "id": "certarc",
+  "name": "CertArc",
+  "description": "Practise free scenario questions for the CISM, CISSP, CISA, AAISM and AAIA exams, with an explanation for every option. No account or keys.",
+  "version": "1.0.0",
+  "categories": ["other"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@certarc/certarc",
+  "version": "1.0.0",
+  "description": "Free CertArc scenario practice for the CISM, CISSP, CISA, AAISM and AAIA exams.",
+  "homepage": "https://certarc.com/integrations",
+  "repository": "https://github.com/CertArc/certarc-mcp",
+  "license": "MIT"
+}
