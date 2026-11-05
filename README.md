@@ -15,6 +15,7 @@ This repository holds no server code. It documents the hosted server and its MCP
 | --- | --- |
 | ChatGPT | Add CertArc from its [ChatGPT listing](https://chatgpt.com/plugins/plugin_asdk_app_6ac10753370881918540799af4b9e5d7) |
 | Claude | Add a custom connector with the URL `https://certarc.com/mcp/claude` |
+| Hermes | Plugin package in [`hermes/`](hermes/): free practice, no account needed |
 | Other MCP clients | Add `https://certarc.com/mcp/claude` as a remote server. The free tools work without an account; see [Sign-in](#sign-in) |
 
 Setup steps for each assistant are on [certarc.com/integrations](https://certarc.com/integrations).
@@ -59,3 +60,7 @@ Account sign-in currently works from ChatGPT and Claude. In other MCP clients on
 - CertArc is not affiliated with ISACA or ISC2, and does not promise any exam outcome.
 - Privacy: https://certarc.com/privacy
 - Support: https://certarc.com/support
+
+## License
+
+The files in this repository are under the [MIT License](LICENSE). That doesn't cover CertArc's hosted server, questions, explanations or name.
