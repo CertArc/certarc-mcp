@@ -3,8 +3,9 @@
   "name": "com.certarc/certarc",
   "title": "CertArc",
   "description": "Free CISM, CISSP, CISA, AAISM and AAIA practice questions, and read-only access to your study.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://certarc.com",
+  "repository": { "url": "https://github.com/CertArc/certarc-mcp", "source": "github" },
   "icons": [
     { "src": "https://certarc.com/icons/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
   ],
